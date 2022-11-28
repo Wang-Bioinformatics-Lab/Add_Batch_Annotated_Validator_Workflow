@@ -1,6 +1,6 @@
-workflowname: template_nextflow_workflow
-workflowdescription: template_nextflow_workflow
-workflowlongdescription: This is a template nextflow workflow for GNPS2
+workflowname: add_batch_annotated_validator
+workflowdescription: add_batch_annotated_validator
+workflowlongdescription: This is a nextflow workflow for GNPS2 for Validating Batch Annotations
 workflowversion: "0.1"
 workflowfile: nf_workflow.nf
 workflowautohide: false
